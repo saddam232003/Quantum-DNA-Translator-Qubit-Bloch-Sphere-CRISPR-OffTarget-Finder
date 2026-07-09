@@ -1,0 +1,316 @@
+{
+  "unitarity_original": [
+    {
+      "label": "Standard",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Vertebrate mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Yeast mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Mold/Protozoan/Coelenterate mito",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Invertebrate mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Ciliate/Dasycladacean/Hexamita nuclear",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Echinoderm/Flatworm mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Euplotid nuclear",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Alternative yeast nuclear",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Ascidian mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Alternative flatworm mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Blepharisma nuclear",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Chlorophycean mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Trematode mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Scenedesmus obliquus mito",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    },
+    {
+      "label": "Pterobranchia mitochondrial",
+      "unitarity_frobenius_dev": 10.954451150103322,
+      "rows_with_wrong_nnz": 120,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 2,
+      "rows_with_zero_entries": 60
+    }
+  ],
+  "unitarity_fixed": [
+    {
+      "label": "Standard",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Vertebrate mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Yeast mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Mold/Protozoan/Coelenterate mito",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Invertebrate mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Ciliate/Dasycladacean/Hexamita nuclear",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Echinoderm/Flatworm mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Euplotid nuclear",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Alternative yeast nuclear",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Ascidian mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Alternative flatworm mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Blepharisma nuclear",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Chlorophycean mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Trematode mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Scenedesmus obliquus mito",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    },
+    {
+      "label": "Pterobranchia mitochondrial",
+      "unitarity_frobenius_dev": 0.0,
+      "rows_with_wrong_nnz": 0,
+      "cols_with_wrong_nnz": 0,
+      "max_row_weight": 1,
+      "rows_with_zero_entries": 0
+    }
+  ],
+  "n_tables_nonunitary_original": 16,
+  "n_tables_unitary_fixed": 16,
+  "translation_checks_total": 1024,
+  "translation_internal_failures": 0,
+  "translation_biopython_mismatches": 7,
+  "bloch_zero_state": [
+    0.0,
+    0.0,
+    1.0
+  ],
+  "bloch_one_state": [
+    0.0,
+    0.0,
+    -1.0
+  ],
+  "bloch_plus_state": [
+    0.9999999999999998,
+    0.0,
+    0.0
+  ],
+  "density_trace_real": 0.9999999999999998,
+  "density_hermiticity_dev": 0.0,
+  "timing": [
+    {
+      "n_codons": 10,
+      "classical_seconds": 6.020333330525318e-06,
+      "quantum_seconds": 0.05582409633333896,
+      "slowdown_factor": 9272.592274964267
+    },
+    {
+      "n_codons": 50,
+      "classical_seconds": 1.2405000006765476e-05,
+      "quantum_seconds": 0.29110395166666575,
+      "slowdown_factor": 23466.66275758989
+    },
+    {
+      "n_codons": 100,
+      "classical_seconds": 2.341733333347899e-05,
+      "quantum_seconds": 0.5712137753333385,
+      "slowdown_factor": 24392.776376321766
+    },
+    {
+      "n_codons": 300,
+      "classical_seconds": 7.90553333350393e-05,
+      "quantum_seconds": 1.6787589966666587,
+      "slowdown_factor": 21235.24025320365
+    },
+    {
+      "n_codons": 600,
+      "classical_seconds": 0.0001638829999990321,
+      "quantum_seconds": 3.5109791239999972,
+      "slowdown_factor": 21423.69326910499
+    }
+  ]
+}
